@@ -3,7 +3,7 @@
 ## Product
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
-**SDP:**
+**SDP (Social Development Platform)**
 **Product Leader:**
 
 ---
@@ -13,7 +13,7 @@
 ### Contextual Moat — __/5
 *Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
 
-**3**
+**4**
 
 **ChatGPT**
 
@@ -31,7 +31,7 @@
 ### Platform Exposure — __/5
 *Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
 
-**2:**
+**3:**
 
 **OpenAI ChatGPT**
 
@@ -41,7 +41,7 @@
 
 > You run AI at **[OpenAI / Google / Apple]**. Your OKR: make this product irrelevant.
 >
-> **3**
+> **1**
 >
 > 1. Attack:
 > 2. Wedge:
