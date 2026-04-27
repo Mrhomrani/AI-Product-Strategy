@@ -3,8 +3,8 @@
 ## Product
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
-**Product:**
-**Your Role:**
+**SDP:**
+**Product Leader:**
 
 ---
 
@@ -13,27 +13,27 @@
 ### Contextual Moat — __/5
 *Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
 
-**Score rationale:**
+**3**
 
-**Named attacker (from partner challenge):**
+**ChatGPT**
 
 ---
 
 ### Data Advantage — __/5
 *Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
 
-**Score rationale:**
+**5**
 
-**Named attacker (from partner challenge):**
+**OpenAI ChatGPT**
 
 ---
 
 ### Platform Exposure — __/5
 *Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
 
-**Score rationale:**
+**2:**
 
-**Named attacker (from partner challenge):**
+**OpenAI ChatGPT**
 
 ---
 
@@ -41,7 +41,7 @@
 
 > You run AI at **[OpenAI / Google / Apple]**. Your OKR: make this product irrelevant.
 >
-> **3-sentence memo:**
+> **3**
 >
 > 1. Attack:
 > 2. Wedge:
@@ -51,6 +51,7 @@
 
 ## Top Vulnerability
 <!-- One line: what's the single biggest strategic risk? -->
-
+chatGPT moves to onprim gov Data Centers
 ## Confidence Level
 <!-- H / M / L — how confident are you in this bet after the diagnostic? -->
+M
