@@ -8,7 +8,7 @@
 
 ## Prototype Link
 <!-- Paste the shareable URL -->
-
+https://claude.ai/public/artifacts/4c395d12-d76c-41f7-97ba-0a9e16ffc759
 ## AI Value Archetype
 <!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
 
