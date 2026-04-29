@@ -43,5 +43,15 @@
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
 **Attacker:**
+OpenAI / Microsoft
 **Attack vector:**
+Launching Gov AI Copilot that provides the following:
+1- Decision Support
+2- Case Summerization 
+3- Eligibility Prediction 
+
 **Your defense:**
+1- Building Decision Engine inside SDP 
+2- prevent intelligence layer from getting out
+3- launching Copilot for internal employees 
+4- link every decision made with a feedback loop
